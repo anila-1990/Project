@@ -1,0 +1,80 @@
+[02-Nov-2017 09:26:48 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/aksharakishor/public_html/akshara.com/application/models/Site_model.php on line 329
+[02-Nov-2017 12:32:58 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/aksharakishor/public_html/akshara.com/application/models/Site_model.php on line 733
+[02-Nov-2017 12:34:07 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/aksharakishor/public_html/akshara.com/application/models/Site_model.php on line 733
+[02-Nov-2017 12:34:42 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/aksharakishor/public_html/akshara.com/application/models/Site_model.php on line 733
+[02-Nov-2017 12:41:29 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/aksharakishor/public_html/akshara.com/application/models/Backend_model.php on line 1231
+[03-Nov-2017 11:14:36 UTC] PHP Fatal error:  Call to undefined method CI_Email::header() in /home/aksharakishor/public_html/akshara.com/application/models/Site_model.php on line 165
+[04-Nov-2017 08:52:23 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 629
+[04-Nov-2017 08:52:41 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 629
+[04-Nov-2017 08:53:25 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 629
+[04-Nov-2017 08:54:25 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 620
+[04-Nov-2017 08:54:31 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 620
+[04-Nov-2017 08:54:42 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 620
+[04-Nov-2017 10:02:47 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/aksharakishor/public_html/akshara.com/application/models/Site_model.php on line 522
+[04-Nov-2017 10:09:06 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/aksharakishor/public_html/akshara.com/application/models/Site_model.php on line 522
+[04-Nov-2017 10:10:46 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/aksharakishor/public_html/akshara.com/application/models/Site_model.php on line 522
+[04-Nov-2017 10:11:34 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/aksharakishor/public_html/akshara.com/application/models/Site_model.php on line 522
+[04-Nov-2017 10:12:06 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/aksharakishor/public_html/akshara.com/application/models/Site_model.php on line 522
+[04-Nov-2017 10:14:06 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/aksharakishor/public_html/akshara.com/application/models/Site_model.php on line 522
+[04-Nov-2017 10:19:29 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/aksharakishor/public_html/akshara.com/application/models/Site_model.php on line 522
+[04-Nov-2017 11:42:19 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/aksharakishor/public_html/akshara.com/application/models/User_model.php on line 194
+[04-Nov-2017 11:42:24 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/aksharakishor/public_html/akshara.com/application/models/User_model.php on line 194
+[06-Nov-2017 05:25:50 UTC] PHP Fatal error:  Call to a member function encode() on null in /home/aksharakishor/public_html/akshara.com/application/models/Site_model.php on line 369
+[07-Nov-2017 11:27:13 UTC] PHP Fatal error:  Call to a member function encode() on null in /home/aksharakishor/public_html/akshara.com/application/models/Site_model.php on line 370
+[07-Nov-2017 11:35:53 UTC] PHP Fatal error:  Call to a member function encode() on null in /home/aksharakishor/public_html/akshara.com/application/models/Site_model.php on line 370
+[07-Nov-2017 11:37:18 UTC] PHP Fatal error:  Call to a member function encode() on null in /home/aksharakishor/public_html/akshara.com/application/models/Site_model.php on line 370
+[10-Nov-2017 09:05:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1074
+[10-Nov-2017 09:05:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1074
+[10-Nov-2017 09:06:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1074
+[10-Nov-2017 09:06:11 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1074
+[10-Nov-2017 09:06:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1074
+[10-Nov-2017 09:07:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1074
+[10-Nov-2017 09:07:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1074
+[10-Nov-2017 09:07:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1074
+[10-Nov-2017 09:08:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1074
+[10-Nov-2017 09:08:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1074
+[10-Nov-2017 09:54:41 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1055
+[10-Nov-2017 11:01:45 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1058
+[10-Nov-2017 11:01:49 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1058
+[10-Nov-2017 11:02:32 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1058
+[10-Nov-2017 11:02:36 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1058
+[10-Nov-2017 11:03:12 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1058
+[10-Nov-2017 11:03:21 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1058
+[10-Nov-2017 11:04:47 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1058
+[10-Nov-2017 11:04:50 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1058
+[10-Nov-2017 11:06:09 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1058
+[10-Nov-2017 11:06:33 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1058
+[13-Nov-2017 11:01:31 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1091
+[13-Nov-2017 11:01:43 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1091
+[13-Nov-2017 11:01:45 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1091
+[13-Nov-2017 11:01:49 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1091
+[13-Nov-2017 11:01:54 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1091
+[13-Nov-2017 11:01:56 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 1091
+[16-Nov-2017 08:58:31 UTC] PHP Fatal error:  Call to a member function do_upload() on null in /home/aksharakishor/public_html/akshara.com/application/models/Backend_model.php on line 1991
+[16-Nov-2017 09:01:18 UTC] PHP Fatal error:  Call to a member function do_upload() on null in /home/aksharakishor/public_html/akshara.com/application/models/Backend_model.php on line 1991
+[16-Nov-2017 10:50:37 UTC] PHP Fatal error:  Call to a member function do_upload() on null in /home/aksharakishor/public_html/akshara.com/application/models/Backend_model.php on line 1991
+[16-Nov-2017 10:53:23 UTC] PHP Fatal error:  Call to a member function do_upload() on null in /home/aksharakishor/public_html/akshara.com/application/models/Backend_model.php on line 1991
+[16-Nov-2017 10:53:51 UTC] PHP Fatal error:  Call to a member function do_upload() on null in /home/aksharakishor/public_html/akshara.com/application/models/Backend_model.php on line 1991
+[16-Nov-2017 10:54:25 UTC] PHP Fatal error:  Call to a member function do_upload() on null in /home/aksharakishor/public_html/akshara.com/application/models/Backend_model.php on line 1991
+[16-Nov-2017 10:56:04 UTC] PHP Fatal error:  Call to a member function do_upload() on null in /home/aksharakishor/public_html/akshara.com/application/models/Backend_model.php on line 1991
+[16-Nov-2017 10:56:42 UTC] PHP Fatal error:  Call to a member function do_upload() on null in /home/aksharakishor/public_html/akshara.com/application/models/Backend_model.php on line 1991
+[16-Nov-2017 10:57:41 UTC] PHP Fatal error:  Call to a member function do_upload() on null in /home/aksharakishor/public_html/akshara.com/application/models/Backend_model.php on line 1991
+[16-Nov-2017 11:01:09 UTC] PHP Fatal error:  Call to a member function do_upload() on null in /home/aksharakishor/public_html/akshara.com/application/models/Backend_model.php on line 1991
+[16-Nov-2017 11:24:50 UTC] PHP Fatal error:  Call to a member function do_upload() on null in /home/aksharakishor/public_html/akshara.com/application/models/Backend_model.php on line 1991
+[16-Nov-2017 11:39:40 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/aksharakishor/public_html/akshara.com/application/models/Site_model.php on line 134
+[16-Nov-2017 11:43:01 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/aksharakishor/public_html/akshara.com/application/models/Site_model.php on line 134
+[16-Nov-2017 11:44:39 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/aksharakishor/public_html/akshara.com/application/models/Site_model.php on line 135
+[16-Nov-2017 12:15:10 UTC] PHP Fatal error:  Call to a member function do_upload() on null in /home/aksharakishor/public_html/akshara.com/application/models/Backend_model.php on line 1991
+[18-Nov-2017 10:10:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/aksharakishor/public_html/akshara.com/application/views/backend/biography_akshara/biography.php on line 78
+[18-Nov-2017 10:10:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/aksharakishor/public_html/akshara.com/application/views/backend/biography_akshara/biography.php on line 78
+[18-Nov-2017 10:11:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/aksharakishor/public_html/akshara.com/application/views/backend/biography_akshara/biography.php on line 78
+[18-Nov-2017 10:11:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/aksharakishor/public_html/akshara.com/application/views/backend/biography_akshara/biography.php on line 78
+[18-Nov-2017 10:11:50 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/aksharakishor/public_html/akshara.com/application/views/backend/biography_akshara/biography.php on line 78
+[18-Nov-2017 10:12:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/aksharakishor/public_html/akshara.com/application/views/backend/biography_akshara/biography.php on line 78
+[25-Nov-2017 05:59:31 UTC] PHP Fatal error:  Call to a member function is_authenticated() on null in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 158
+[25-Nov-2017 06:38:12 UTC] PHP Fatal error:  Call to a member function is_authenticated() on null in /home/aksharakishor/public_html/akshara.com/application/controllers/Site.php on line 158
+[25-Nov-2017 08:32:19 UTC] PHP Fatal error:  Call to undefined method User::checkgoogleUser() in /home/aksharakishor/public_html/akshara.com/application/controllers/User_authentication.php on line 126
+[25-Nov-2017 08:39:00 UTC] PHP Fatal error:  Call to undefined method User::checkgoogleUser() in /home/aksharakishor/public_html/akshara.com/application/controllers/User_authentication.php on line 126
+[25-Nov-2017 08:41:15 UTC] PHP Fatal error:  Call to undefined method User::checkgoogleUser() in /home/aksharakishor/public_html/akshara.com/application/controllers/User_authentication.php on line 126
+[25-Nov-2017 10:57:24 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/aksharakishor/public_html/akshara.com/application/models/Backend_model.php on line 5570
+[25-Nov-2017 11:22:44 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/aksharakishor/public_html/akshara.com/application/models/Backend_model.php on line 5569
